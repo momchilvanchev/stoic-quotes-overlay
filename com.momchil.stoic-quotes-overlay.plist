@@ -8,7 +8,7 @@
 
    <key>ProgramArguments</key>
    <array>
-     <string>~/.bin/stoic_qoutes_overlay</string>
+     <string>/path/to/user/home/dir/.bin/stoic_qoutes_overlay</string>
    </array>
 
    <key>RunAtLoad</key>
